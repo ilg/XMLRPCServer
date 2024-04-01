@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd "$( dirname "${BASH_SOURCE[0]}" )"
+cd ..
+swift package plugin --allow-writing-to-package-directory swiftformat .

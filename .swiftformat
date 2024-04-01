@@ -1,0 +1,6 @@
+--disable hoistTry
+--header "Copyright © {year} Isaac Greenspan.  All rights reserved."
+--swiftversion 5.8
+--wraparguments before-first
+--wrapcollections before-first
+--wrapparameters before-first

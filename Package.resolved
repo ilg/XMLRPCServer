@@ -1,0 +1,68 @@
+{
+  "pins" : [
+    {
+      "identity" : "ambassador",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/envoy/Ambassador.git",
+      "state" : {
+        "revision" : "447cf56f692999153bd261b1775ea4a58f7f7be9",
+        "version" : "4.0.5"
+      }
+    },
+    {
+      "identity" : "embassy",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/envoy/Embassy.git",
+      "state" : {
+        "revision" : "8469f2c1b334a7c1c3566e2cb2f97826c7cca898",
+        "version" : "4.1.6"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "94cf62b3ba8d4bed62680a282d4c25f9c63c2efb",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swift-meta-serialization",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ilg/swift-meta-serialization.git",
+      "state" : {
+        "branch" : "fix-spm",
+        "revision" : "e78d6327b763bd12b9f9753c65c7b0981a25fa37"
+      }
+    },
+    {
+      "identity" : "swiftformat",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicklockwood/SwiftFormat",
+      "state" : {
+        "revision" : "9e5d0d588ab6e271fe9887ec3dde21d544d4b080",
+        "version" : "0.53.5"
+      }
+    },
+    {
+      "identity" : "xmlrpcclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ilg/XMLRPCClient.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0f28e5a3bc06dca25144a9e2d176a07588476550"
+      }
+    },
+    {
+      "identity" : "xmlrpccoder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ilg/XMLRPCCoder.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2d004f73ab6257fb11f714a42d48cf60470d20b3"
+      }
+    }
+  ],
+  "version" : 2
+}
